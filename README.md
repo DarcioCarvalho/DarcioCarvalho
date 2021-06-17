@@ -4,6 +4,7 @@
 - 💞️ Estou procurando colaborar em HTML, CSS e Javascript
 - 📫 Para entrar em contato, envie e-mail para darcio.nuno@gmail.com
 
+<BR>
 
 - 👋 Hi, I’m Dárcio Nuno de Carvalho
 - 👀 I’m interested in Full Stack Programming, Front-end and Back-end
